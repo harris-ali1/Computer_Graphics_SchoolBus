@@ -1,0 +1,9 @@
+﻿  AdnanHarrisFinalBUS.c
+C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\PROJECT 3\AdnanHarrisFinalBUS.c(537,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\PROJECT 3\AdnanHarrisFinalBUS.c(566,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\PROJECT 3\AdnanHarrisFinalBUS.c(611,12): warning C4101: 'j': unreferenced local variable
+C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\PROJECT 3\AdnanHarrisFinalBUS.c(1079,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\PROJECT 3\AdnanHarrisFinalBUS.c(1274,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\PROJECT 3\AdnanHarrisFinalBUS.c(1279,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  LINK : C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\Debug\PROJECT 3.exe not found or not built by the last incremental link; performing full link
+  PROJECT 3.vcxproj -> C:\Users\tkkha\Downloads\PROJECT 4\PROJECT 3 - Copy\Debug\PROJECT 3.exe
